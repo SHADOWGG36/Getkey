@@ -30,10 +30,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "",
-        "key": "",
+        "device_id": "0ed05a1db08d7918",
+        "key": "12",
         "expirydate": "1-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "",
